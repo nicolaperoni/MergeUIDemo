@@ -763,7 +763,7 @@ Children:
       Type: BaseDataVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 16.0
+      Value: 25.0
   - Name: Label2
     Type: Label
     Children:
@@ -829,7 +829,7 @@ Children:
       Type: BaseDataVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 16.0
+      Value: 25.0
   - Name: Image1
     Type: Image
     Children:
