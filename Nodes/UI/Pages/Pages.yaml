@@ -758,7 +758,7 @@ Children:
       Type: BaseDataVariableType
       DataType: Color
       ModellingRule: Optional
-      Value: "#000000"
+      Value: "#ff0000"
     - Name: FontSize
       Type: BaseDataVariableType
       DataType: Size
@@ -819,7 +819,7 @@ Children:
       Type: BaseDataVariableType
       DataType: Color
       ModellingRule: Optional
-      Value: "#000000"
+      Value: "#ff0000"
     - Name: ContentType
       Type: BaseVariableType
       DataType: InputTypeEnum
