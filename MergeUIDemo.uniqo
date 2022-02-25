@@ -23,5 +23,13 @@ Project:
    Uri: 'urn:QPlatform:NativeUI'
    Module: QPlatform.NativeUI
    Version: 26.1.0.0
+  9:
+   Uri: 'urn:QPlatform:EventLogger'
+   Module: QPlatform.EventLogger
+   Version: 7.0.0.0
+  10:
+   Uri: 'urn:QPlatform:Store'
+   Module: QPlatform.Store
+   Version: 2.1.0.0
  Nodes:
  - File: Nodes/MergeUIDemo.yaml
