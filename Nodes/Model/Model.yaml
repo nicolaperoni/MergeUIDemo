@@ -3,3 +3,7 @@ Type: FolderType
 Children:
 - File: Types/Types.yaml
 - File: Motors/Motors.yaml
+- Name: MyNewVariable
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 55
