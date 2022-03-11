@@ -1,0 +1,9 @@
+Project C:/Users/nicper/Desktop/Mark/MergeUIDemo/MergeUIDemo.uniqo upgraded on 11-03-2022 17:42:40.900
+
+Upgraded modules:
+QPlatform.NativeUI: from 26.1.0.0 to 26.2.0.0
+QPlatform.UI: from 43.0.0.0 to 43.2.0.0
+
+No potential breaking changes detected
+
+

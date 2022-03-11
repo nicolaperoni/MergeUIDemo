@@ -13,7 +13,7 @@ Children:
   - Name: Acceleration
     Type: BaseDataVariableType
     DataType: Int32
-    Value: 20
+    Value: 123
 - Name: Motor3
   Id: g=85dd860e3832937d09343a6a609817bc
   Type: Motor
