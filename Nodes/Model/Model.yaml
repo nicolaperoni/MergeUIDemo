@@ -7,3 +7,7 @@ Children:
   Type: BaseDataVariableType
   DataType: Int32
   Value: 55
+- Name: MyNewVariable1
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 55
