@@ -25,4 +25,4 @@ Children:
   - Name: Acceleration
     Type: BaseDataVariableType
     DataType: Int32
-    Value: 30
+    Value: 1000
