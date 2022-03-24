@@ -7,3 +7,21 @@ QPlatform.UI: from 43.0.0.0 to 43.2.0.0
 No potential breaking changes detected
 
 
+Project C:/Users/NPERONI/Documents/ASEM/UNIQO/Projects/tmp/MergeUIDemo/MergeUIDemo.uniqo upgraded on 15-03-2022 19:17:16.619
+
+Upgraded modules:
+QPlatform.NativeUI: from 26.2.0.0 to 26.3.0.0
+QPlatform.UI: from 43.2.0.0 to 43.3.0.0
+
+No potential breaking changes detected
+
+
+Project C:/Users/NPERONI/Documents/ASEM/UNIQO/Projects/tmp/MergeUIDemo/MergeUIDemo.uniqo upgraded on 24-03-2022 08:44:44.816
+
+Upgraded modules:
+QPlatform.NativeUI: from 26.3.0.0 to 26.4.0.0
+QPlatform.UI: from 43.3.0.0 to 43.4.0.0
+
+No potential breaking changes detected
+
+

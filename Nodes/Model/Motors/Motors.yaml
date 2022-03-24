@@ -9,7 +9,7 @@ Children:
   - Name: Speed
     Type: BaseDataVariableType
     DataType: Int32
-    Value: 50
+    Value: 60
   - Name: Acceleration
     Type: BaseDataVariableType
     DataType: Int32
@@ -21,8 +21,30 @@ Children:
   - Name: Speed
     Type: BaseDataVariableType
     DataType: Int32
-    Value: 3333
+    Value: 222
   - Name: Acceleration
     Type: BaseDataVariableType
     DataType: Int32
     Value: 1000
+- Name: Motor1
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 11
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 22
+- Name: Motor4
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
